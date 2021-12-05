@@ -1,0 +1,12 @@
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\bin\Debug\PharmacyAutomation.exe.config
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\bin\Debug\PharmacyAutomation.exe
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\bin\Debug\PharmacyAutomation.pdb
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\obj\Debug\PharmacyAutomation.csprojAssemblyReference.cache
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\obj\Debug\PharmacyAutomation.LogInForm.resources
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\obj\Debug\PharmacyAutomation.Properties.Resources.resources
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\obj\Debug\PharmacyAutomation.csproj.GenerateResource.cache
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\obj\Debug\PharmacyAutomation.csproj.CoreCompileInputs.cache
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\obj\Debug\PharmacyAutomation.exe
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\obj\Debug\PharmacyAutomation.pdb
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\obj\Debug\PharmacyAutomation.PharmacistForm.resources
+C:\Users\Tahsin\source\repos\PharmacyAutomation\PharmacyAutomation\obj\Debug\PharmacyAutomation.PhysicianForm.resources
